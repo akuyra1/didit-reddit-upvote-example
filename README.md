@@ -50,3 +50,12 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+
+(Required)
+🎯 Please mention the requirements you met and which goals you achieved for this assignment.
+   - Managed to get it deployed on vercel.
+🎯 Were there any requirements or goals that you were not quite able to achieve?
+   - Just attempted the deployment task.
+🎯 If so, could you please tell us what was it that you found difficult about these tasks?
+   - Got ill few days ago which only worsened day by day, tried resting first part of the day but it has only been getting worse, so did not have the strength to try any of the stretch goals.
